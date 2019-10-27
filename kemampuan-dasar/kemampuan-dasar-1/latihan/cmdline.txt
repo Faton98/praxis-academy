@@ -1,0 +1,12 @@
+mkdir directoryname digunakkan untuk membuat directory di linux
+touch filename.txt digunakkan untuk membuat file di linux
+rm filename.txt digunakkan untuk menghapus file di linux
+mv /path /new/path untuk memindahkan file di linux
+rmdir namadirectory untuk menghapus directory
+history digunakkan untuk menampilkan history perintah yang pernah ditulis
+clear untuk membersihkan perintah perintah yang pernah kita tulis di terminal
+ls menampilkan list file dan directory dari lokasi directory kita saat ini
+pwd digunakkan untuk menampilkan lokasi directory mana sekarang kita berada
+free menampilkan informasi memory yang available maupun yang used.
+cd namadirectory untuk berpindah directory
+cat namafile.txt untuk menampilkan isi file
